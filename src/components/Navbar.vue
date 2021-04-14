@@ -3,7 +3,7 @@
     <div>
       <a
         href="#"
-        class="p-2 mr-4 inline-flex items-center text-white text-3xl font-bold uppercase tracking-wide "
+        class="p-2 mr-4 inline-flex items-center text-white text-3xl font-bold uppercase tracking-wide  "
         >NAVBAR</a
       >
     </div>
